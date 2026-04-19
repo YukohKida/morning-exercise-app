@@ -45,7 +45,7 @@ git push -u origin main
 
 ## 使い方
 
-1. スマホのブラウザで URL にアクセス
+1. スマホのブラウザで URL にアクセス (https://github.com/YukohKida/morning-exercise-app/index.html)
 2. 「ホーム画面に追加」でアプリ化（iOS: 共有→ホーム画面に追加）
 3. 毎朝アイコンをタップ → 「ラジオ体操をはじめる」
 4. タイマー完了で達成記録 → ストリーク更新
